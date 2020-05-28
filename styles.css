@@ -8,15 +8,14 @@ body{
 }
 
 
-.container-fluid{
-    padding:3% 15% 7%;
-}
+
 
 #title{
     background-color: #ff4c68;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     color:#ffffff ;
+     padding:3% 15% 7%;
 }
 h1{
     font-weight: bold;
